@@ -17,10 +17,14 @@ thoughts:
 
 # title: An informative title
 
+*the concise summary*
+
+---
 the content
 
 ---
 ## Sources (recommended)
+
 - source one
 - source two
 - source three

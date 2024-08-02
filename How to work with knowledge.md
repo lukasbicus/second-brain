@@ -1,6 +1,6 @@
 ---
 title: How to work with knowledge
-summary: Notes from the Tiago Forte's talk[^1] how to be more productive knowledge knowledge worker. He points to Flow. He explains, how to manage knowledge better with SERC method. This enables to transform my knowledge into "Open source knowledge"[^2]
+summary: Notes from the Tiago Forte's talk[^1] how to be more productive knowledge worker. He points to Flow. He explains, how to manage knowledge better with SERC method. This enables to transform my knowledge into "Open source knowledge"[^2]
 slug: how-to-work-with-knowledge
 project-tags: 
   - self education
@@ -16,6 +16,9 @@ thoughts:
 
 # How to work with knowledge
 
+*Notes from the Tiago Forte's talk[^1] how to be more productive knowledge worker. He points to Flow. He explains, how to manage knowledge better with SERC approach. This enables to transform my knowledge into "Open source knowledge"[^2]*
+
+---
 ## Flow
 - mental state of operation in which a person performing an activity is fully immersed in a a feeling of
   - energized focus
@@ -35,11 +38,11 @@ thoughts:
   - they are hard on your body and mind
 
 ### Triggers of flow
-| Internal                  | External         |
-|---------------------------|------------------|
-| **Clear goals**           | Presence of risk |
-| **Immediate feedback**    | Deep embodiment  |
-| **Challenge-skill ratio** | Rich environment |
+| Internal                  | External             |
+|---------------------------|----------------------|
+| **Clear goals**           | **Presence of risk** |
+| **Immediate feedback**    | **Deep embodiment**  |
+| **Challenge-skill ratio** | **Rich environment** |
 
 Some factors of flow can be planed, especially internal triggers
 
@@ -70,6 +73,7 @@ Software development is also kind of knowledge work. Knowledge is from it's natu
 Utilizing those 5 steps can help you to create open source knowledge[^2]
 
 ---
-## Sources
-- [^1]: [Tiago Forte: The React Productivity Revolution](https://www.youtube.com/watch?v=BOKxSFB2hOE&t=218s)
-- [^2]: [Shawn Swyx Wang: The coding career handbook](https://learninpublic.org/)
+### Sources
+
+[^1]: [Tiago Forte: The React Productivity Revolution](https://www.youtube.com/watch?v=BOKxSFB2hOE&t=218s)
+[^2]: [Shawn Swyx Wang: The coding career handbook](https://learninpublic.org/)
