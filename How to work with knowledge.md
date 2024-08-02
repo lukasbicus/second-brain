@@ -16,7 +16,6 @@ thoughts:
 
 # How to work with knowledge
 
-### Summary
 *Notes from the Tiago Forte's talk[^1] how to be more productive knowledge worker. He points to Flow. He explains, how to manage knowledge better with SERC approach. This enables to transform my knowledge into "Open source knowledge"[^2]*
 
 ---
