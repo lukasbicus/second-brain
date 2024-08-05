@@ -41,6 +41,13 @@ It uses some libraries, that work with binary data:
 ## Formatting
 Some things are done non-traditional way for me. F.e. formatting by `dprint` package. I added custom file watcher, that will run dprint on all files.
 
+In comparison to eslint, `dprint`:
+- is more performant (written in Rust)
+- has more configuration options
+- is newer
+- community is smaller, but grows continuously
+
+
 ## cli included
 The bysquare package can be used as a command line tool. It's achieved by adding a `bin` entry into `package.json`
 
