@@ -77,6 +77,6 @@ Now it can be executed directly from terminal
 ```
 
 ---
-## Sources
+### Sources
 
-- [^1]: [bysquare project](https://github.com/xseman/bysquare)
+[^1]: [bysquare project](https://github.com/xseman/bysquare)

@@ -23,8 +23,8 @@ thoughts:
 the content
 
 ---
-## Sources (recommended)
+### Sources (recommended)
 
-- source one
-- source two
-- source three
+[^1] source one
+[^2] source two
+[^3] source three
