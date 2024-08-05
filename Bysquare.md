@@ -33,10 +33,10 @@ With data in binary format, there are bite operations like
 - `right shift` (`>>`)
 - `left shift` (`<<`)
 
-- it works with data on level of bytes - decoding and encoding data. It uses some libraries, that work on that level:
-    - `lzma1` - implements compression / decompression of Lempel-Ziv-Markov (LZMA) chain compression algorithm.
-    - `rfc4648` - implements encoding and decoding for the data formats specified in rfc4648
-    - `crc-32` - Standard CRC-32 algorithm implementation in JS
+It uses some libraries, that work with binary data:
+- `lzma1` - implements compression / decompression of Lempel-Ziv-Markov (LZMA) chain compression algorithm.
+- `rfc4648` - implements encoding and decoding for the data formats specified in rfc4648
+- `crc-32` - Standard CRC-32 algorithm implementation in JS
 
 ## Formatting
 Some things are done non-traditional way for me. F.e. formatting by `dprint` package. I added custom file watcher, that will run dprint on all files.
