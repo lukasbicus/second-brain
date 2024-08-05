@@ -12,9 +12,6 @@ thematic-tags:
   - cli example
   - binary
   - writing command line utils
-thoughts:
-  - thought1
-  - thought2
 ---
 
 # What do I like on bysquare project
@@ -73,7 +70,7 @@ Now it can be executed directly from terminal
 ```
 
 ---
-## Sources (recommended)
+## Sources
 
 - [^1]: [bysquare project](https://github.com/xseman/bysquare)
 - [^2]: [rfc4648 specification](https://datatracker.ietf.org/doc/html/rfc4648)
