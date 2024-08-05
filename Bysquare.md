@@ -21,8 +21,8 @@ thematic-tags:
 ---
 
 
-## bysquare project
-While thinking, how can I contribute to community and improve my coding skills, I found project bysquare. At glance, I realized, this is a high quality project and I can learn a lot just by contributing to it. I decided to implement some features here and learn by the way.
+## Project bysquare[^1]
+While thinking, how can I contribute to community and improve my coding skills, I found project bysquare[^1]. At glance, I realized, this is a high quality project and I can learn a lot just by contributing to it. I decided to implement some features here and learn by the way.
 
 ## Bytes
 What is new for me is working on the project on level of bytes.
@@ -35,7 +35,7 @@ With data in binary format, there are bite operations like
 
 It uses some libraries, that work with binary data:
 - `lzma1` - implements compression / decompression of Lempel-Ziv-Markov (LZMA) chain compression algorithm.
-- `rfc4648` - implements encoding and decoding for the data formats specified in rfc4648
+- `rfc4648` - implements encoding and decoding for the data formats specified in [rfc4648 specification](https://datatracker.ietf.org/doc/html/rfc4648)
 - `crc-32` - Standard CRC-32 algorithm implementation in JS
 
 ## Formatting
@@ -80,4 +80,3 @@ Now it can be executed directly from terminal
 ## Sources
 
 - [^1]: [bysquare project](https://github.com/xseman/bysquare)
-- [^2]: [rfc4648 specification](https://datatracker.ietf.org/doc/html/rfc4648)
