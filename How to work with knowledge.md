@@ -20,7 +20,7 @@ thoughts:
 
 ---
 ## Flow
-- mental state of operation in which a person performing an activity is fully immersed in a a feeling of
+- mental state of operation in which a person performing an activity is fully immersed in a feeling of
   - energized focus
   - full involvement
   - enjoyment
@@ -33,7 +33,7 @@ thoughts:
   - avoiding interruptions, distractions (people)
   - single tasking and sprints
 - sometimes "Heavy lifts" are needed, but not always, "Heavy lifts" -> are dangerous
-  - they isolates you socially
+  - they isolate you socially
   - they reduce your influence on business
   - they are hard on your body and mind
 
@@ -47,7 +47,7 @@ thoughts:
 Some factors of flow can be planed, especially internal triggers
 
 ## Improving knowledge work
-Software development is also kind of knowledge work. Knowledge is from it's nature blurry, unorginezed. We can improve managing it by doing it:
+Software development is also kind of knowledge work. Knowledge is from its nature blurry, unorganized. We can improve managing it by doing it:
 - **Stateful**
 - **Encapsulated**
 - **Reusable**
