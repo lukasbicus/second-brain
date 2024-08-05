@@ -66,9 +66,9 @@ Software development is also kind of knowledge work. Knowledge is from it's natu
   - quotes
   - ...
 2. Break down the content into small packets with clean edges - notes
-3. Design notes for easy search and retrieval - add metadata ![A note design](./assets/design-of-notes.png)
+3. Design notes for easy search and retrieval - add metadata ![A note design](../assets/design-of-notes.png)
 4. Organize these packets by project and topic - so you can find them
-5. Practice composing things ![Compose things diagram](./assets/open-knowledge.png)
+5. Practice composing things ![Compose things diagram](../assets/open-knowledge.png)
 
 Utilizing those 5 steps can help you to create open source knowledge[^2]
 
