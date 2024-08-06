@@ -147,7 +147,7 @@ if (!result.success) {
 ```
 
 ---
-### Sources (recommended)
+### Sources
 
-[^1] [Object validation in javascript best practices and examples](https://medium.com/@stheodorejohn/object-validation-in-javascript-best-practices-and-examples-112855955566)
-[^2] [Zod](https://zod.dev/)
+[^1]: [Object validation in javascript best practices and examples](https://medium.com/@stheodorejohn/object-validation-in-javascript-best-practices-and-examples-112855955566)
+[^2]: [Zod](https://zod.dev/)
