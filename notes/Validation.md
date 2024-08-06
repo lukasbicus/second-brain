@@ -25,7 +25,7 @@ the content
    - validation prevents runtime errors, exceptions and unexpected behaviour caused by invalid data
 
 ## Best practices
-- setup validation methods to suit your aplication's specific data requirements
+- setup validation methods to suit your application's specific data requirements
 - handle validation errors gracefully, providing user-friendly feedback and log meaningful error messages
 - consider performance, especially when dealing with large objects
 
@@ -42,7 +42,7 @@ Yup: Yup is a JavaScript schema builder for value parsing and validation. It's l
 Zod: Zod[^2] is a TypeScript-first schema declaration and validation library. It allows you to create schemas using TypeScript types and provides great type inference.
 
 ## Zod[^2]
-I've picked zod
+I've picked Zod
 - it's small
 - has no dependencies
 - provides great type inference
