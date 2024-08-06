@@ -1,7 +1,7 @@
 ---
 title: Validation
 summary: Benefits of validation, list of popular libraries. Introduction to Zod library.
-slug: an-slug
+slug: validation
 project-tags: 
   - bysquare
   - self education
@@ -19,10 +19,8 @@ the content
 
 ## The importance of object validation
 - the process of validations brings benefits to the applications[^1]
-1. Data consistency
-   - validation ensures data consistency (f.e. before storing data in database)
-2. Error avoidance
-   - validation prevents runtime errors, exceptions and unexpected behaviour caused by invalid data
+1. **Data consistency** - validation ensures data consistency (f.e. before storing data in database)
+2. **Error avoidance** - validation prevents runtime errors, exceptions and unexpected behaviour caused by invalid data
 
 ## Best practices
 - setup validation methods to suit your application's specific data requirements
@@ -33,16 +31,16 @@ the content
 
 Here are some validation libraries, I met along. Each will add complexity to your project, so it's best to use only one at time.
 
-Ajv: robust and performant library for validation. The most used.
+**Ajv**: robust and performant library for validation. The most used.
 
-Joi: Joi is a powerful schema description language and data validator for JavaScript. It's often used to validate data in REST APIs and can validate both simple and complex data structures.
+**Joi**: Joi is a powerful schema description language and data validator for JavaScript. It's often used to validate data in REST APIs and can validate both simple and complex data structures.
 
-Yup: Yup is a JavaScript schema builder for value parsing and validation. It's leaner than Joi and is often used with form libraries like Formik for front-end validation in React applications.
+**Yup**: Yup is a JavaScript schema builder for value parsing and validation. It's leaner than Joi and is often used with form libraries like Formik for front-end validation in React applications.
 
-Zod: Zod[^2] is a TypeScript-first schema declaration and validation library. It allows you to create schemas using TypeScript types and provides great type inference.
+**Zod**: Zod[^2] is a TypeScript-first schema declaration and validation library. It allows you to create schemas using TypeScript types and provides great type inference.
 
 ## Zod[^2]
-I've picked Zod
+I've picked **Zod**
 - it's small
 - has no dependencies
 - provides great type inference
