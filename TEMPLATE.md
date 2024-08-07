@@ -15,7 +15,7 @@ thoughts:
   - thought2
 ---
 
-# title: An informative title
+# An informative title
 
 *the concise summary*
 
@@ -23,8 +23,8 @@ thoughts:
 the content
 
 ---
-### Sources (recommended)
+### Sources
 
-[^1] source one
-[^2] source two
-[^3] source three
+[^1]: source one
+[^2]: source two
+[^3]: source three
