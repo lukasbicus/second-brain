@@ -161,8 +161,50 @@ import * as square from './square.js'
 import './square.js'
 ```
 
+## Practical implications
 
+It's easy to add and use any library to your frontend project from https://esm.sh/. Example:
 
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>React App</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="./main.tsx"></script>
+  </body>
+</html>
+```
+
+```tsx
+import React, { type MouseEvent } from "https://esm.sh/react@18.2.0"
+import confetti from "https://esm.sh/canvas-confetti@1.6.0"
+
+const App = () => {
+  function onMouseMove(e: MouseEvent) {
+    confetti({
+      particleCount: 5,
+      origin: {
+        x: e.pageX / window.innerWidth,
+        y: (e.pageY + 20) / window.innerHeight,
+      }
+    })
+  }
+
+  return (
+    <div onMouseMove={onMouseMove}>
+      <h1>Hello React! ⚛️</h1>
+      <p>Building user interfaces.</p>
+    </div>
+  )
+}
+
+export default App
+```
 
 
 
