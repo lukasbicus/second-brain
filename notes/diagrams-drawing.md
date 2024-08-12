@@ -96,3 +96,7 @@ erDiagram
     MEMBER ||--o{ LOAN : borrows
     BOOK ||--o{ LOAN : "is borrowed by"
 ```
+
+## Mermaid vs draw.io
+- mermaid is more simple and easier to integrate and maintain into readme files
+- draw.io offers more control over design of diagrams (f.e. shape and positions of links)
