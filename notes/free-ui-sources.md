@@ -33,7 +33,11 @@ thoughts:
 - https://mui.com/material-ui/material-icons
 - https://heroicons.com/outline
 
+## Favicons
+- https://realfavicongenerator.net/
+
 ## Data visualisations
 - https://www.tremor.so/
 - https://www.chartjs.org/
 - https://airbnb.io/visx/
+
